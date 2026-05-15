@@ -1,4 +1,4 @@
-# 
+# Polymarket smart Trading Bot: machine-learning-models & sentiment-analysis is the best Polymarket trading-bot, featuring machine-learning-models and sentiment-analysis. Smart,
 
 
 
